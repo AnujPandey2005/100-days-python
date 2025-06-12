@@ -1,0 +1,17 @@
+# MAKING OF CALCULATOR BY PYTHON
+
+# ADDITION = 1+1
+# SUBTRACTION = 2-1
+# MULTIPLICATION = 2*2
+# DIVISION = 4/2
+# MODULUS = 5%2
+# FLOOR_DIVISION = 5//2
+# EXPONENTIATION = 2**3
+
+print(15+5)
+print(15-5)
+print(15*5)
+print(15/5)
+print(15%5)
+print(15//5)
+print(5**3)
