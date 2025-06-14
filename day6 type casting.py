@@ -12,6 +12,7 @@
 a = 5
 b= 10.5
 print("a+b is",a+b)
+# implicit typecasting converts int to float automatically
 
 # explicit typecasting example
 a= 5
