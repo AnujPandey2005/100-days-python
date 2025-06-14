@@ -1,7 +1,10 @@
-a=5
-b=10
 
-print ("the value of ", a , "+" ,10, "is:", a + b)
-print ("the value of ", a , "-" ,10, "is:", a - b)
-print ("the value of ", a , "*" ,10, "is:", a * b)
-print ("the value of ", a , "/" ,10, "is:", a / b)
+# a=input("enter your name:")
+# print("hello Mr.",a)
+
+
+# # arthematic operations in python in correct way
+# # addition of two numbers
+# x=input("enter first number")
+# y=input("enter second number")
+# print(int(x) + int(y))
