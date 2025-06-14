@@ -1,4 +1,4 @@
-# topoic of the day comments , escape sequence & print stateements !!!!
+# topoic of the day , comments , escape sequence & print stateements !!!!
 
 # comments
 
@@ -13,7 +13,7 @@
 # \b - backspace
 
 # example of escape sequence
-print("Hello, World!\ni'm a python programmer")
+print("Hello, World!\ni'm a python programmer ")
 
 # now hellow world will come in one line and i'm a python programmer will come in next line
 
@@ -26,3 +26,5 @@ print("bye")
 #seprate
 print("hey", 6, 7, sep="~", end="000\n")
 print("harry")
+print("ANUJ")
+
