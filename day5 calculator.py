@@ -22,7 +22,7 @@
 
 a=5
 b=10
-
+c=15
 print("the value of " ,a,"+",b, "is :-",a+b)
 print("the value of " ,a,"-",b, "is :-",a-b)
 print("the value of " ,a,"*",b, "is :-",a*b)
