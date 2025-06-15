@@ -6,9 +6,9 @@
 
 # example of string
 
-apple = '''hello anuj,
+applee = '''hello anuj,
 how are your!!!
 i am fine and i hope you are also fine.
 this is a multi line string'''
 
-print(apple)
+print(applee)
