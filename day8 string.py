@@ -6,9 +6,13 @@
 
 # example of string
 
-applee = '''hello anuj,
-how are your!!!
-i am fine and i hope you are also fine.
-this is a multi line string'''
+name = "aanuj pandey"
+friend= 'priyanshu pandey'
+print(name[2])
+print(" lets use a for loop\n")
 
-print(applee)
+for character in name:
+    print(character)
+    
+    for character in friend:
+        print(character)
